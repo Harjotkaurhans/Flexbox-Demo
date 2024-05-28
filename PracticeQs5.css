@@ -1,0 +1,41 @@
+#container{
+    width: 400px;
+    height: 400px;
+    border: 2px solid lightseagreen;
+    background-color: white;
+    border-radius: 10px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+    text-align: center;
+    background-color: gray;
+}
+#logobar{
+    height: 50px;
+    width: 900px;
+    border: 2px solid lightseagreen;
+    background-color: pink;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    
+
+}
+.a{
+    height: 50px;
+    width: 80px;
+    font-size: 24px;
+    text-align:start;
+    line-height: 50px;
+
+}
